@@ -1,12 +1,9 @@
 <img align="right" width="250" src="https://github.com/AEI-CORDyS/AEI-CORDyS.github.io/blob/main/micin-aei-cordys_en.png?raw=true">
 
-CORDyS
-======
-
 Contribution to the next generation of CORDEX regional climate projections: Dynamical and Statistical approaches
 ---
 CORDEX is currently facing the downscaling of CMIP6 global climate models (GCMs), which represent the latest 
-generation of Coupled Earth System Models. The CORDyS project, funded by the Spanish Ministry of Science and Innovation,
+generation of Coupled Earth System Models. The **CORDyS project**, funded by the Spanish Ministry of Science and Innovation,
 aims to contribute to this next generation of CORDEX regional climate projections using both dynamical and statistical
 downscaling methods, including statistical emulators of the dynamical models. Our objective is to contribute to
 (1) the process-based evaluation of the driving GCMs,
